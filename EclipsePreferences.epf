@@ -1,0 +1,14 @@
+#Tue Nov 26 17:09:14 IST 2013
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.6
+@org.eclipse.ui=3.104.0.v20121024-145224
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+@org.eclipse.ui.workbench=3.104.0.v20130204-164612
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.source=1.6
+@org.eclipse.jdt.core=3.8.3.v20130121-145325
+/instance/org.eclipse.ui/KEY_CONFIGURATION_ID=org.eclipse.ui.emacsAcceleratorConfiguration
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+/instance/org.eclipse.jdt.core/org.eclipse.jdt.core.compiler.compliance=1.6
+\!/=
+file_export_version=3.0
+/instance/org.eclipse.ui.workbench/org.eclipse.ui.commands=<?xml version\="1.0" encoding\="UTF-8"?>\n<org.eclipse.ui.commands>\n<activeKeyConfiguration keyConfigurationId\="org.eclipse.ui.emacsAcceleratorConfiguration"/>\n</org.eclipse.ui.commands>
